@@ -13,6 +13,7 @@
     git merge upstream/master master
 
 > Besides that you can also use **git pull** which will perform fetch and merge in a single step.
+
     git pull upstream master
 
 ### 4. Now your fork is upto date but locally only not on github. follow bellow procedure to reflect these changes on your github account. Add all files to your 	 git hub fork master branch
